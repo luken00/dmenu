@@ -1,0 +1,8 @@
+# generated files
+config.h
+dmenu
+stest
+
+# patches
+/patches
+*.diff
